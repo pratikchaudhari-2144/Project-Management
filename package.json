@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.13.5",
+    "@emotion/styled": "^11.13.5",
+    "@mui/material": "^6.1.8",
+    "@mui/x-data-grid": "^7.22.2",
+    "axios": "^1.7.7",
+    "date-fns": "^4.1.0",
+    "gantt-task-react": "^0.3.9",
+    "install": "^0.13.0",
+    "lucide-react": "^0.460.0",
+    "numeral": "^2.0.6",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
+    "recharts": "^2.13.3"
+  }
+}
